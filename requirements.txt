@@ -1,0 +1,10 @@
+git+https://github.com/KurimuzonAkuma/pyrogram.git@v2.1.16
+pyromod==1.5
+TgCrypto
+python-dotenv
+pymongo
+dnspython
+motor
+aiohttp
+aiofiles
+python-telegram-bot==21.5
